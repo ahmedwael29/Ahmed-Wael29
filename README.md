@@ -10,6 +10,25 @@
 ```JavaScript
 console.log("Error 404 ❗🥹")
 ```
+<p align=left>
+ <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>
+ <img src=https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white>
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&color=%231572B6">
+ <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+ <img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white >
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=Github&logoColor=%23181717&color=%236e5494">
+
+ </p>
+ <p align=left>
+<img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%2361DAFB&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=JSON&logoColor=%23000000&color=white">
+
+
+
+</p>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors count
 
