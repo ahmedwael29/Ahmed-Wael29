@@ -28,6 +28,7 @@ console.log("Error 404 ❗🥹")
 <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%2361DAFB&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=JSON&logoColor=%23000000&color=white">
 </p>
 
