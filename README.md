@@ -9,7 +9,6 @@
 -  **Learning :** React JS :zap:	
 -  **Hobbies :** Reading :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Pronouns :** He/Him :innocent:
  
 ```JavaScript
 console.log("Error 404 ❗🥹")
