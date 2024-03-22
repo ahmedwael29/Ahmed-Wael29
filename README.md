@@ -1,5 +1,7 @@
+<!--The Header Photo -->
 <img align="center" src="header.jpg">
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--The Gif Image which is in the right -->
 <img align="right" height="200" width="300" src="dev.gif">
 
 ### 🤔 About
