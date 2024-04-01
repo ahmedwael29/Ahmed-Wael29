@@ -46,14 +46,14 @@ console.log("Error 404 ❗🥹")
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-<a href="https://twitter.com/A7madwael29" target="blank">
+<a href="https://twitter.com/A7madwael29" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed Wael" height="35" width="35" />
 </a>
   
-<a href="https://www.linkedin.com/in/ahmed-wael-91929b224/" target="blank">
+<a href="https://www.linkedin.com/in/ahmed-wael-91929b224/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Wael" height="35" width="35" />
 </a>
-<a href="https://web.facebook.com/profile.php?id=100006697871359" target="blank">
+<a href="https://web.facebook.com/profile.php?id=100006697871359" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Wael" height="35" width="35" />
 </a>
 </p>
